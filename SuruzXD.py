@@ -6,7 +6,7 @@ import os,zlib
 from os import system as osRUB
 from os import system as cmd
 os.system('clear')
-print('loading Modules ...\n')
+print('loading Please Wait ...\n')
 
 
 
@@ -87,7 +87,7 @@ o.`Y8b Y8   8P 88"Yb  Y8   8P  dP
 \033[1;37m Owner   :            SURUZ x D
 \033[1;37m Facebook:            Mr.Suruz
 \033[1;37m Github  :             SuruzOfficial
-\033[1;37m Version :            3.90
+\033[1;37m Version :            This Command Will Be Update Soon...
 \033[1;37m------------------------------------------------ """
 def clear():
     os.system("clear")
